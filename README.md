@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Braden0006
-- 👀 I’m interested in learning more about web developement and a little bit about the backend.
-- 🌱 I’m currently learning more about javascript and am diving into react.
-- 💞️ I’m looking to collaborate with anyone on any website that needs to be updated or make a whole new one.
+- 👋 Hi, I’m Braden
+- 👀 I’m interested in all things backend, you know, where the actually programming is ;)
+- 🌱 I’m currently learning more about Java and am doing a lot of small programs to get more familiar with it
 - 📫 You can reach me at my email: bradenwhitch@gmail.com
 
 <!---
