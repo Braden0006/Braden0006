@@ -1,7 +1,7 @@
 # <center>Braden Whitcher</center>
 - 👋 Hi, I’m Braden
-- 👀 I’m interested in all things backend, you know, where the actually programming is ;)
-- 🌱 I’m currently learning more about C because I'm super interested in learning low-level programming
+- 👀 I’m interested in learning about low-level programming and getting my hands dirty with how things are made
+- 🌱 I’m currently learning more about C and making a Unix shell in it
 - 📫 You can reach me at my email: bradenwhitch@gmail.com
 
 <!---
