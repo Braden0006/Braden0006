@@ -1,8 +1,8 @@
 # <center>Braden Whitcher</center>
 - 👋 Hi, I’m Braden
 - 👀 I’m interested in creating great applications by writing a lot of bad ones
-- 🌱 I’m currently learning more about C++
-- 🥾 Learning how to make a game without an engine, using SDL3 and Dear ImGUI
+- 🌱 I’m currently learning more about Java and Spring Boot
+- 🥾 Currently creating a booking application specifically for cosmetic technicians
 - 📫 You can reach me at my email: bradenwhitch@gmail.com
 - 💼 Here is a link to my e-portfolio: https://braden0006.github.io/
 
