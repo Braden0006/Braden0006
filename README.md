@@ -2,10 +2,11 @@
 - 👋 Hi, I’m Braden
 - 👀 I’m interested in creating great applications by writing a lot of bad ones
 - 🌱 I’m currently learning more about Java and the Spring ecosystem
+- 📫 You can reach me at my email: bradenwhitch@gmail.com
+
 <!---
 - 🥾 Currently creating a more simple Board Game Arena clone
 --->
-- 📫 You can reach me at my email: bradenwhitch@gmail.com
 
 <!---
 - 💼 Here is a link to my e-portfolio: https://braden0006.github.io/
